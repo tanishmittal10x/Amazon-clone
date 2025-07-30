@@ -1,2 +1,4 @@
 # Amazon-clone
-fronted project develop using html,css
+This ia my first Fronted project develop using html,css
+<br>
+Develop by:Tanish Mittal
